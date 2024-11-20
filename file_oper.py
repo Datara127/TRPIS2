@@ -2,7 +2,6 @@ def write_file(filename, content):
     with open(filename, 'w') as file:
         file.write(content)
     print(f"Content written to {filename}")
-    print("Success")
 
 def read_file(filename, content):
     try:
