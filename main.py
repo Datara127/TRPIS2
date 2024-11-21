@@ -6,7 +6,7 @@ def main():
 
     content = read_file(FILE_NAME)
     print(f"File content:\n{content}")
-    print("hello")
+    print("hello world привет мир")
 
 if __name__ == "__main__":
     main()
