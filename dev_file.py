@@ -1,3 +1,3 @@
 def new_opt():
     print("New dev")
-print("squash")
+print("conflict from dev")
